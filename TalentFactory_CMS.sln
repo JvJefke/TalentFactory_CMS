@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentFactory_CMS", "TalentFactory_CMS\TalentFactory_CMS.csproj", "{7655E257-5737-4F7A-B23F-919898BAD4AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentFactory_CMS.Tests", "TalentFactory_CMS.Tests\TalentFactory_CMS.Tests.csproj", "{6BE672D2-D4CE-4428-8FD1-9C64D87690F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7655E257-5737-4F7A-B23F-919898BAD4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7655E257-5737-4F7A-B23F-919898BAD4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7655E257-5737-4F7A-B23F-919898BAD4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7655E257-5737-4F7A-B23F-919898BAD4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE672D2-D4CE-4428-8FD1-9C64D87690F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE672D2-D4CE-4428-8FD1-9C64D87690F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE672D2-D4CE-4428-8FD1-9C64D87690F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE672D2-D4CE-4428-8FD1-9C64D87690F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
