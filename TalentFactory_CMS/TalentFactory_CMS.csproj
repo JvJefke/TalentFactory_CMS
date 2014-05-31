@@ -188,6 +188,21 @@
     </Compile>
     <Compile Include="Models\AccountBindingModels.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Award.cs" />
+    <Compile Include="Models\Contact.cs" />
+    <Compile Include="Models\FlickrAlbum.cs" />
+    <Compile Include="Models\HallOfFame.cs" />
+    <Compile Include="Models\Home.cs" />
+    <Compile Include="Models\JuryKeuze.cs" />
+    <Compile Include="Models\JuryLid.cs" />
+    <Compile Include="Models\NieuwsItem.cs" />
+    <Compile Include="Models\Nominatie.cs" />
+    <Compile Include="Models\Page.cs" />
+    <Compile Include="Models\Richting.cs" />
+    <Compile Include="Models\Setup.cs" />
+    <Compile Include="Models\Sponsor.cs" />
+    <Compile Include="Models\SponsorType.cs" />
+    <Compile Include="Models\TwitterFeed.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Providers\ApplicationOAuthProvider.cs" />
     <Compile Include="Results\ChallengeResult.cs" />
@@ -243,6 +258,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="DataAccess\Context\" />
+    <Folder Include="DataAccess\Repositories\" />
+    <Folder Include="DataAccess\Services\" />
+    <Folder Include="DataAccess\UOW\" />
+    <Folder Include="ViewModels\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
