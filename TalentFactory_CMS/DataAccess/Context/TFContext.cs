@@ -11,17 +11,17 @@ namespace TalentFactory_CMS.DataAccess.Context
     {
         public DbSet<Award> Award { get; set; }
         public DbSet<Contact> Contact { get; set; }
-public DbSet<Contact> Contact { get; set; }
-public DbSet<Contact> Contact { get; set; }
-public DbSet<Contact> Contact { get; set; }
-public DbSet<Contact> Contact { get; set; }
-public DbSet<Contact> Contact { get; set; }
-public DbSet<Contact> Contact { get; set; }
-public DbSet<Contact> Contact { get; set; }
-public DbSet<Contact> Contact { get; set; }
-public DbSet<Contact> Contact { get; set; }
-public DbSet<Contact> Contact { get; set; }
-public DbSet<Contact> Contact { get; set; }
+        public DbSet<Contact> Contact { get; set; }
+        public DbSet<Contact> Contact { get; set; }
+        public DbSet<Contact> Contact { get; set; }
+        public DbSet<Contact> Contact { get; set; }
+        public DbSet<Contact> Contact { get; set; }
+        public DbSet<Contact> Contact { get; set; }
+        public DbSet<Contact> Contact { get; set; }
+        public DbSet<Contact> Contact { get; set; }
+        public DbSet<Contact> Contact { get; set; }
+        public DbSet<Contact> Contact { get; set; }
+        public DbSet<Contact> Contact { get; set; }
         
     }
 }
